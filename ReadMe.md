@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou Estudante de Análise e desenvolvimento de sistemas<br>👯 Estou a procurar de um estagio em desenvolvimento front-end<br>🌱 Atualmente me aprofundando em Javascript<br>
+🔭 Sou Estudante de Análise e desenvolvimento de sistemas<br>🌱 Atualmente me aprofundando em Python<br>
 
 
 ## 🌐 Socials:
